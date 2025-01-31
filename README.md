@@ -1,4 +1,9 @@
 # tg-copy-coords-to-selected
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
+
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-copy-coords-to-selected) to go directly to the <i>tg-copy-coords-to-selected</i> folder in the redmaw-tg-toolkit.
+<hr>
 Copies valid xyz coordinates from the clipboard to the selected nodes in the active Terragen project. Selected nodes without xyz coordinate parameters are ignored.
 
 ### Requirements
